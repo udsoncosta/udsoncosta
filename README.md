@@ -6,7 +6,7 @@ Oi, eu sou o Udson! 👋
 
 <h2>Contatos</h2>
 
-[![email] : (udsoncostasantana@gmail.com)
+[![Gmail Badge] : (udsoncostasantana@gmail.com)
 
 <h2>Github Statistics</h2>
 
