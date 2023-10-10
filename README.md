@@ -1,16 +1,19 @@
-### Hi there 👋
+### <h1>Seja bem vindo(a)!</h1>
 
-<!--
-**udsoncosta/udsoncosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Oi, eu sou o Udson! 👋
 
-Here are some ideas to get you started:
+- 🌱 Atualmente estudando C#
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>Contatos</h2>
+
+[![email] : (udsoncostasantana@gmail.com)
+
+<h2>Github Statistics</h2>
+
+<div align="center">
+  <a href="https://github.com/rafaelq80">
+  </div>
+
+
+
+
