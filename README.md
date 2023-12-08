@@ -1,11 +1,11 @@
 # Olá 👋🏻 Bem vindo ao meu perfil!
 
-<img align="right" alt="GIF" src="https://cdn-icons-png.flaticon.com/512/6478/6478891.png" width="400" height="280" />
+<img align="right" alt="icon" src="https://img.freepik.com/vetores-gratis/homem-bonito-trabalhando-no-computador-com-ilustracao-de-icone-do-vetor-dos-desenhos-animados-do-cafe-conceito-de-icone-de-tecnologia-de-pessoas-isolado-vetor-premium-estilo-flat-cartoon_138676-3868.jpg" width="400" height="280" />
 
 Meu nome é **Udson Costa** e sou um **Desenvolvedor Full Stack**!
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=udsoncosta&layout=compact&langs_count=7&title_color=000000&text_color=000000&icon_color=9e3f3f&bg_color=f7f7f7">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=udsoncosta&layout=compact&theme=graywhite&hide_border=true" width="313" />
 </div>
 
 <br>
