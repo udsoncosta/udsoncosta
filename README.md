@@ -1,11 +1,11 @@
 # Olá 👋🏻 Bem vindo ao meu perfil!
 
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif" />
+<img align="right" alt="GIF" src="https://img.freepik.com/free-vector/cute-man-working-computer-with-coffee-cartoon-vector-icon-illustration-people-technology-icon-concept-isolated-premium-vector-flat-cartoon-style_138676-3868.jpg" />
 
-Meu nome é **Udson Costa** e sou um **Desenvolvedor FullStack**!
+Meu nome é **Udson Costa** e sou um **Desenvolvedor Full Stack**!
 
 <div align="center">
-<img src="https://img.freepik.com/free-vector/cute-man-working-computer-with-coffee-cartoon-vector-icon-illustration-people-technology-icon-concept-isolated-premium-vector-flat-cartoon-style_138676-3868.jpg">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=udsoncosta&layout=compact&langs_count=7&title_color=000000&text_color=000000&icon_color=9e3f3f&bg_color=f7f7f7">
 </div>
 
 <br>
