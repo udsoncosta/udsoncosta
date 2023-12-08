@@ -1,6 +1,6 @@
 # Olá 👋🏻 Bem vindo ao meu perfil!
 
-<img align="right" alt="GIF" src="https://img.freepik.com/free-vector/cute-man-working-computer-with-coffee-cartoon-vector-icon-illustration-people-technology-icon-concept-isolated-premium-vector-flat-cartoon-style_138676-3868.jpg" width="400" height="200" />
+<img align="right" alt="GIF" src="https://img.freepik.com/free-vector/cute-man-working-computer-with-coffee-cartoon-vector-icon-illustration-people-technology-icon-concept-isolated-premium-vector-flat-cartoon-style_138676-3868.jpg" width="400" height="100" />
 
 Meu nome é **Udson Costa** e sou um **Desenvolvedor Full Stack**!
 
