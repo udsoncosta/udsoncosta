@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif" />
 
-Meu nome é **Udson Costa** e sou um **Desenvolvedor Full Stack**!
+Meu nome é **Udson Costa** e sou um **Desenvolvedor FullStack**!
 
 <div align="center">
 <img src="https://img.freepik.com/free-vector/cute-man-working-computer-with-coffee-cartoon-vector-icon-illustration-people-technology-icon-concept-isolated-premium-vector-flat-cartoon-style_138676-3868.jpg">
